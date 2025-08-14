@@ -1,0 +1,10 @@
+version control
+linux command
+containers 
+ci/cd
+docker
+qubernities
+automation puppet,handsable
+netorking and monitoring
+aws.azure and ggogle c
+https://github.com/Satheesh0603/sample-app
